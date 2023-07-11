@@ -8,9 +8,7 @@ export default function Index() {
         <h2 className="italic text-4xl text-white font-bold">
           Minimal Wave Stack
         </h2>
-        <p className="text-gray-400">
-          <em>Vite</em> ‣ Tailwind ‣ Prettier ‣ Eslint
-        </p>
+        <p className="text-gray-400">Remix ‣ Tailwind ‣ Prettier ‣ Eslint</p>
       </div>
 
       <div
